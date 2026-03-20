@@ -1,7 +1,17 @@
+/**
+ * Builds the Java application using Maven.
+ * This function compiles the code and packages it into a JAR/WAR file.
+ */
+
 def buildJar() {
     echo "building the application..."
     sh 'mvn package'
 } 
+
+/**
+ * Builds and pushes a Docker image to Docker Hub.
+ * It uses stored Jenkins credentials for authentication.
+ */
 
 def buildImage() {
     echo "building the docker image..."
@@ -12,6 +22,11 @@ def buildImage() {
     }
 } 
 
+/**
+ * Deploys the application to the target environment.
+ * (Currently a placeholder - deployment logic can be added here)
+ */
+ 
 def deployApp() {
     echo 'deploying the application...'
 } 
