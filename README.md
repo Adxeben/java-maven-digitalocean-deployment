@@ -42,3 +42,12 @@ Maven
 1. Add CI/CD pipeline
 2. Automate deployment
 3. Learn Docker
+
+<img width="936" height="467" alt="server droplet dashboard run" src="https://github.com/user-attachments/assets/f95b7d55-d52e-439f-8aa8-36f489719800" />
+
+<img width="908" height="459" alt="Firewall config" src="https://github.com/user-attachments/assets/9c28805b-2d51-4328-bb36-3c0caecf11e0" />
+
+<img width="928" height="536" alt="maven-java app running on server" src="https://github.com/user-attachments/assets/920e81ee-37cb-4080-bdc4-175fd09679ed" />
+
+
+
