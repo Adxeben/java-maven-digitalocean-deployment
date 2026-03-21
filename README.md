@@ -92,5 +92,6 @@ _The Maven project was configured to publish to Nexus, the application was built
 
 
 
-
-
+![alt text](<screenshots/Nexus User.png>)
+![alt text](<screenshots/Published artifact on Nexus.png>)
+![alt text](<screenshots/Retrieval of artifact from Nexus and running on server.png>)
